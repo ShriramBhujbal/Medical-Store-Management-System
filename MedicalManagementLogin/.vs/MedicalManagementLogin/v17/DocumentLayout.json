@@ -1,0 +1,630 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|c:\\shriram medicalproject\\medical store management system project\\medicalmanagementlogin\\medicalmanagementlogin\\pharmacistuc\\uc_p_sellmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\pharmacistuc\\uc_p_sellmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\administratoruc\\uc_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\administratoruc\\uc_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\administratoruc\\uc_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\administratoruc\\uc_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\pharmacistuc\\uc_p_viewmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\pharmacistuc\\uc_p_viewmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\pharmacistuc\\viewcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\pharmacistuc\\viewcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\pharmacistuc\\uc_p_updatemedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\pharmacistuc\\uc_p_updatemedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\pharmacistuc\\uc_p_sellmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\pharmacistuc\\uc_p_sellmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\pharmacistuc\\uc_p_medicinevalidity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\pharmacistuc\\uc_p_medicinevalidity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\pharmacistuc\\uc_p_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\pharmacistuc\\uc_p_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\pharmacistuc\\uc_p_addmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\pharmacistuc\\uc_p_addmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\pharmacistuc\\uc_p_addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\pharmacistuc\\uc_p_addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\administratoruc\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\administratoruc\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\administratoruc\\uc_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\administratoruc\\uc_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\administratoruc\\uc_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\administratoruc\\uc_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\administratoruc\\uc_viewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\administratoruc\\uc_viewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\administratoruc\\uc_dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\administratoruc\\uc_dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\crystalreport4.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\crystalreport4.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\crystalreport7.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\crystalreport7.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\crystalreport9.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\crystalreport9.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\crystalreport5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\crystalreport5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\crystalreport8.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\crystalreport8.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\administratoruc\\uc_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\administratoruc\\uc_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\customerreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\customerreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\medicreport1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\medicreport1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\userreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\userreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\crystalreport3.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\crystalreport3.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\adminstrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\adminstrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\adminstrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\adminstrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\pharmacist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\pharmacist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\administratoruc\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\administratoruc\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\pharmacist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\pharmacist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\pharmacistuc\\uc_p_viewmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\pharmacistuc\\uc_p_viewmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\pharmacistuc\\viewcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\pharmacistuc\\viewcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\pharmacistuc\\uc_p_addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\pharmacistuc\\uc_p_addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\pharmacistuc\\uc_p_addmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\pharmacistuc\\uc_p_addmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\pharmacistuc\\uc_p_updatemedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\pharmacistuc\\uc_p_updatemedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\medicalmanagementlogin\\administratoruc\\uc_viewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0AB072-65C2-454E-B86F-E7593CF4BA84}|MedicalManagementLogin\\MedicalManagementLogin.csproj|solutionrelative:medicalmanagementlogin\\administratoruc\\uc_viewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CrystalReport9.rpt",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\CrystalReport9.rpt",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\CrystalReport9.rpt",
+              "ToolTip": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\CrystalReport9.rpt",
+              "RelativeToolTip": "MedicalManagementLogin\\CrystalReport9.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIeSURBVDhPpZJNSFRRFMd/9973ZnIaswwiWvSFmyFNFyEUTlC4qDYptghaSOAmoY3QojZFVkLuIqZ2FhVCYGOLFhERRBs3MkP0IWmZ5geaOo06M76v28Ia581r1w/O4lzO\u002BZ9z7jnwP2itRamfGEzpUr\u002BczpYGX3yAxGBKu56nXc/T5SQGU/pfBWTgQQim5leYnFv2GcCF0/WBLgMCAFKKgAHce56GslF9Akquu0qKot3xepFC0BqvoTVeQ0tTDVXRcDHHJ/AnHyUlSkqSYoAH0/eJTzWgpMRQEtPwN\u002B3zTKUAMJTg5vwN2ORQKbew7GU5MnGw2FUpxt6OT61C6ONA9fBXj1O/LLpnryKlwciPMZbnsgBknSyNk3UMH/vgExD5vNW2Wlhrfj\u002Be23NrYOnkdEYSj4UZajhDxf4wM\u002BkZvj0Zg0XIDdgAJN\u002BNcq45JgBk5/X\u002B5KXbz7oMN3vlbsd2jsZCvEwVsPofExGVUNCQgULS8W0kwPnLD0Xy7YheyKzos73juvbiqD7U9UUf6K/Tq/k1bdmuth1XW7arn74ZCa6xr6ddh0MmVdEKmmIRtkYNTNPkUf0LLNtFqfXqSglMtfH3gUMqOJCe8KiuCrGr2qBg2TiOWx5WxDdQ36tJ/Xk2zOKqZHPI4/DuDAuLC\u002BzcsY1IZON4AE407hOUC\u002BTzVlvesq9lsrnan0src0Pp8e7hjxOvge99Pe250ti//Aa4Se8VLBKf0wAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-18T13:52:05.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "customerreport.cs [Design]",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\customerreport.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\customerreport.cs",
+              "ToolTip": "C:\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\customerreport.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\customerreport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:09:32.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CrystalReport7.rpt",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\CrystalReport7.rpt",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\CrystalReport7.rpt",
+              "ToolTip": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\CrystalReport7.rpt",
+              "RelativeToolTip": "MedicalManagementLogin\\CrystalReport7.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIeSURBVDhPpZJNSFRRFMd/9973ZnIaswwiWvSFmyFNFyEUTlC4qDYptghaSOAmoY3QojZFVkLuIqZ2FhVCYGOLFhERRBs3MkP0IWmZ5geaOo06M76v28Ia581r1w/O4lzO\u002BZ9z7jnwP2itRamfGEzpUr\u002BczpYGX3yAxGBKu56nXc/T5SQGU/pfBWTgQQim5leYnFv2GcCF0/WBLgMCAFKKgAHce56GslF9Akquu0qKot3xepFC0BqvoTVeQ0tTDVXRcDHHJ/AnHyUlSkqSYoAH0/eJTzWgpMRQEtPwN\u002B3zTKUAMJTg5vwN2ORQKbew7GU5MnGw2FUpxt6OT61C6ONA9fBXj1O/LLpnryKlwciPMZbnsgBknSyNk3UMH/vgExD5vNW2Wlhrfj\u002Be23NrYOnkdEYSj4UZajhDxf4wM\u002BkZvj0Zg0XIDdgAJN\u002BNcq45JgBk5/X\u002B5KXbz7oMN3vlbsd2jsZCvEwVsPofExGVUNCQgULS8W0kwPnLD0Xy7YheyKzos73juvbiqD7U9UUf6K/Tq/k1bdmuth1XW7arn74ZCa6xr6ddh0MmVdEKmmIRtkYNTNPkUf0LLNtFqfXqSglMtfH3gUMqOJCe8KiuCrGr2qBg2TiOWx5WxDdQ36tJ/Xk2zOKqZHPI4/DuDAuLC\u002BzcsY1IZON4AE407hOUC\u002BTzVlvesq9lsrnan0src0Pp8e7hjxOvge99Pe250ti//Aa4Se8VLBKf0wAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-08T18:59:09.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "medicreport1.cs [Design]",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\medicreport1.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\medicreport1.cs",
+              "ToolTip": "C:\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\medicreport1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\medicreport1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:58:45.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CrystalReport4.rpt",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\CrystalReport4.rpt",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\CrystalReport4.rpt",
+              "ToolTip": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\CrystalReport4.rpt",
+              "RelativeToolTip": "MedicalManagementLogin\\CrystalReport4.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIeSURBVDhPpZJNSFRRFMd/9973ZnIaswwiWvSFmyFNFyEUTlC4qDYptghaSOAmoY3QojZFVkLuIqZ2FhVCYGOLFhERRBs3MkP0IWmZ5geaOo06M76v28Ia581r1w/O4lzO\u002BZ9z7jnwP2itRamfGEzpUr\u002BczpYGX3yAxGBKu56nXc/T5SQGU/pfBWTgQQim5leYnFv2GcCF0/WBLgMCAFKKgAHce56GslF9Akquu0qKot3xepFC0BqvoTVeQ0tTDVXRcDHHJ/AnHyUlSkqSYoAH0/eJTzWgpMRQEtPwN\u002B3zTKUAMJTg5vwN2ORQKbew7GU5MnGw2FUpxt6OT61C6ONA9fBXj1O/LLpnryKlwciPMZbnsgBknSyNk3UMH/vgExD5vNW2Wlhrfj\u002Be23NrYOnkdEYSj4UZajhDxf4wM\u002BkZvj0Zg0XIDdgAJN\u002BNcq45JgBk5/X\u002B5KXbz7oMN3vlbsd2jsZCvEwVsPofExGVUNCQgULS8W0kwPnLD0Xy7YheyKzos73juvbiqD7U9UUf6K/Tq/k1bdmuth1XW7arn74ZCa6xr6ddh0MmVdEKmmIRtkYNTNPkUf0LLNtFqfXqSglMtfH3gUMqOJCe8KiuCrGr2qBg2TiOWx5WxDdQ36tJ/Xk2zOKqZHPI4/DuDAuLC\u002BzcsY1IZON4AE407hOUC\u002BTzVlvesq9lsrnan0src0Pp8e7hjxOvge99Pe250ti//Aa4Se8VLBKf0wAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-08T05:47:51.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CrystalReport3.rpt",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\CrystalReport3.rpt",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\CrystalReport3.rpt",
+              "ToolTip": "C:\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\CrystalReport3.rpt*",
+              "RelativeToolTip": "..\\..\\..\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\CrystalReport3.rpt*",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIeSURBVDhPpZJNSFRRFMd/9973ZnIaswwiWvSFmyFNFyEUTlC4qDYptghaSOAmoY3QojZFVkLuIqZ2FhVCYGOLFhERRBs3MkP0IWmZ5geaOo06M76v28Ia581r1w/O4lzO\u002BZ9z7jnwP2itRamfGEzpUr\u002BczpYGX3yAxGBKu56nXc/T5SQGU/pfBWTgQQim5leYnFv2GcCF0/WBLgMCAFKKgAHce56GslF9Akquu0qKot3xepFC0BqvoTVeQ0tTDVXRcDHHJ/AnHyUlSkqSYoAH0/eJTzWgpMRQEtPwN\u002B3zTKUAMJTg5vwN2ORQKbew7GU5MnGw2FUpxt6OT61C6ONA9fBXj1O/LLpnryKlwciPMZbnsgBknSyNk3UMH/vgExD5vNW2Wlhrfj\u002Be23NrYOnkdEYSj4UZajhDxf4wM\u002BkZvj0Zg0XIDdgAJN\u002BNcq45JgBk5/X\u002B5KXbz7oMN3vlbsd2jsZCvEwVsPofExGVUNCQgULS8W0kwPnLD0Xy7YheyKzos73juvbiqD7U9UUf6K/Tq/k1bdmuth1XW7arn74ZCa6xr6ddh0MmVdEKmmIRtkYNTNPkUf0LLNtFqfXqSglMtfH3gUMqOJCe8KiuCrGr2qBg2TiOWx5WxDdQ36tJ/Xk2zOKqZHPI4/DuDAuLC\u002BzcsY1IZON4AE407hOUC\u002BTzVlvesq9lsrnan0src0Pp8e7hjxOvge99Pe250ti//Aa4Se8VLBKf0wAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-07T06:44:43.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UC_Report.cs",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\AdministratorUC\\UC_Report.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\AdministratorUC\\UC_Report.cs",
+              "ToolTip": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\AdministratorUC\\UC_Report.cs",
+              "RelativeToolTip": "MedicalManagementLogin\\AdministratorUC\\UC_Report.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwCIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:01:29.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_P_SellMedicine.cs",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_SellMedicine.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\PharmacistUC\\UC_P_SellMedicine.cs",
+              "ToolTip": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_SellMedicine.cs",
+              "RelativeToolTip": "MedicalManagementLogin\\PharmacistUC\\UC_P_SellMedicine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:46:22.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CrystalReport8.rpt",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\CrystalReport8.rpt",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\CrystalReport8.rpt",
+              "ToolTip": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\CrystalReport8.rpt",
+              "RelativeToolTip": "MedicalManagementLogin\\CrystalReport8.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIeSURBVDhPpZJNSFRRFMd/9973ZnIaswwiWvSFmyFNFyEUTlC4qDYptghaSOAmoY3QojZFVkLuIqZ2FhVCYGOLFhERRBs3MkP0IWmZ5geaOo06M76v28Ia581r1w/O4lzO\u002BZ9z7jnwP2itRamfGEzpUr\u002BczpYGX3yAxGBKu56nXc/T5SQGU/pfBWTgQQim5leYnFv2GcCF0/WBLgMCAFKKgAHce56GslF9Akquu0qKot3xepFC0BqvoTVeQ0tTDVXRcDHHJ/AnHyUlSkqSYoAH0/eJTzWgpMRQEtPwN\u002B3zTKUAMJTg5vwN2ORQKbew7GU5MnGw2FUpxt6OT61C6ONA9fBXj1O/LLpnryKlwciPMZbnsgBknSyNk3UMH/vgExD5vNW2Wlhrfj\u002Be23NrYOnkdEYSj4UZajhDxf4wM\u002BkZvj0Zg0XIDdgAJN\u002BNcq45JgBk5/X\u002B5KXbz7oMN3vlbsd2jsZCvEwVsPofExGVUNCQgULS8W0kwPnLD0Xy7YheyKzos73juvbiqD7U9UUf6K/Tq/k1bdmuth1XW7arn74ZCa6xr6ddh0MmVdEKmmIRtkYNTNPkUf0LLNtFqfXqSglMtfH3gUMqOJCe8KiuCrGr2qBg2TiOWx5WxDdQ36tJ/Xk2zOKqZHPI4/DuDAuLC\u002BzcsY1IZON4AE407hOUC\u002BTzVlvesq9lsrnan0src0Pp8e7hjxOvge99Pe250ti//Aa4Se8VLBKf0wAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-18T13:52:08.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CrystalReport5.cs [Design]",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\CrystalReport5.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\CrystalReport5.cs",
+              "ToolTip": "C:\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\CrystalReport5.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\CrystalReport5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:52:16.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UC_Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\AdministratorUC\\UC_Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\AdministratorUC\\UC_Dashboard.Designer.cs",
+              "ToolTip": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\AdministratorUC\\UC_Dashboard.Designer.cs",
+              "RelativeToolTip": "MedicalManagementLogin\\AdministratorUC\\UC_Dashboard.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:43:49.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UC_Report.cs [Design]",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\AdministratorUC\\UC_Report.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\AdministratorUC\\UC_Report.cs",
+              "ToolTip": "C:\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\AdministratorUC\\UC_Report.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\AdministratorUC\\UC_Report.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:58:06.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ViewCustomer.cs",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\ViewCustomer.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\PharmacistUC\\ViewCustomer.cs",
+              "ToolTip": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\ViewCustomer.cs",
+              "RelativeToolTip": "MedicalManagementLogin\\PharmacistUC\\ViewCustomer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:09:43.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UC_P_ViewMedicine.cs",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_ViewMedicine.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\PharmacistUC\\UC_P_ViewMedicine.cs",
+              "ToolTip": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_ViewMedicine.cs",
+              "RelativeToolTip": "MedicalManagementLogin\\PharmacistUC\\UC_P_ViewMedicine.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:09:15.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\ViewCustomer.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\PharmacistUC\\ViewCustomer.cs",
+              "ToolTip": "C:\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\ViewCustomer.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\ViewCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T05:54:45.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UC_P_Addcustomer.cs",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_Addcustomer.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\PharmacistUC\\UC_P_Addcustomer.cs",
+              "ToolTip": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_Addcustomer.cs",
+              "RelativeToolTip": "MedicalManagementLogin\\PharmacistUC\\UC_P_Addcustomer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T05:05:45.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_AddUser.cs",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\AdministratorUC\\UC_AddUser.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\AdministratorUC\\UC_AddUser.cs",
+              "ToolTip": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\AdministratorUC\\UC_AddUser.cs",
+              "RelativeToolTip": "MedicalManagementLogin\\AdministratorUC\\UC_AddUser.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAuwDYAAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T05:04:26.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UC_P_Addcustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_Addcustomer.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\PharmacistUC\\UC_P_Addcustomer.cs",
+              "ToolTip": "C:\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_Addcustomer.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_Addcustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:50:06.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC_P_ViewMedicine.cs [Design]",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_ViewMedicine.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\PharmacistUC\\UC_P_ViewMedicine.cs",
+              "ToolTip": "C:\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_ViewMedicine.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_ViewMedicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:36:34.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UC_P_UpdateMedicine.cs [Design]",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_UpdateMedicine.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\PharmacistUC\\UC_P_UpdateMedicine.cs",
+              "ToolTip": "C:\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_UpdateMedicine.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_UpdateMedicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:36:32.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UC_P_MedicineValidity.cs [Design]",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_MedicineValidity.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\PharmacistUC\\UC_P_MedicineValidity.cs",
+              "ToolTip": "C:\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_MedicineValidity.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_MedicineValidity.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:36:28.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_AddUser.cs [Design]",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\AdministratorUC\\UC_AddUser.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\AdministratorUC\\UC_AddUser.cs",
+              "ToolTip": "C:\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\AdministratorUC\\UC_AddUser.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\AdministratorUC\\UC_AddUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:36:16.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UC_Profile.cs [Design]",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\AdministratorUC\\UC_Profile.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\AdministratorUC\\UC_Profile.cs",
+              "ToolTip": "C:\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\AdministratorUC\\UC_Profile.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\AdministratorUC\\UC_Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:36:13.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UC_P_Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_Dashboard.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\PharmacistUC\\UC_P_Dashboard.cs",
+              "ToolTip": "C:\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_Dashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:28:01.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UC_Dashboard.cs",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\AdministratorUC\\UC_Dashboard.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\AdministratorUC\\UC_Dashboard.cs",
+              "ToolTip": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\AdministratorUC\\UC_Dashboard.cs",
+              "RelativeToolTip": "MedicalManagementLogin\\AdministratorUC\\UC_Dashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:24:36.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UC_Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\AdministratorUC\\UC_Dashboard.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\AdministratorUC\\UC_Dashboard.cs",
+              "ToolTip": "C:\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\AdministratorUC\\UC_Dashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\AdministratorUC\\UC_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:24:32.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UC_ViewUser.cs",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\AdministratorUC\\UC_ViewUser.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\AdministratorUC\\UC_ViewUser.cs",
+              "ToolTip": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\AdministratorUC\\UC_ViewUser.cs",
+              "RelativeToolTip": "MedicalManagementLogin\\AdministratorUC\\UC_ViewUser.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:14:32.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UC_ViewUser.cs [Design]",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\AdministratorUC\\UC_ViewUser.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\AdministratorUC\\UC_ViewUser.cs",
+              "ToolTip": "C:\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\AdministratorUC\\UC_ViewUser.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\AdministratorUC\\UC_ViewUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:14:28.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UC_P_UpdateMedicine.cs",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_UpdateMedicine.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\PharmacistUC\\UC_P_UpdateMedicine.cs",
+              "ToolTip": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_UpdateMedicine.cs",
+              "RelativeToolTip": "MedicalManagementLogin\\PharmacistUC\\UC_P_UpdateMedicine.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T15:08:07.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UC_P_AddMedicine.cs",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_AddMedicine.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\PharmacistUC\\UC_P_AddMedicine.cs",
+              "ToolTip": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_AddMedicine.cs",
+              "RelativeToolTip": "MedicalManagementLogin\\PharmacistUC\\UC_P_AddMedicine.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:51:34.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UC_P_AddMedicine.cs [Design]",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_AddMedicine.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\PharmacistUC\\UC_P_AddMedicine.cs",
+              "ToolTip": "C:\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_AddMedicine.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_AddMedicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:51:29.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "function.cs",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\function.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\function.cs",
+              "ToolTip": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\function.cs",
+              "RelativeToolTip": "MedicalManagementLogin\\function.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:04:06.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UC_P_SellMedicine.cs [Design]",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_SellMedicine.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\PharmacistUC\\UC_P_SellMedicine.cs",
+              "ToolTip": "C:\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_SellMedicine.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\PharmacistUC\\UC_P_SellMedicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:52:46.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "userreport.cs [Design]",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\userreport.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\userreport.cs",
+              "ToolTip": "C:\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\userreport.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\userreport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:46:29.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Adminstrator.cs",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\Adminstrator.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\Adminstrator.cs",
+              "ToolTip": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\Adminstrator.cs",
+              "RelativeToolTip": "MedicalManagementLogin\\Adminstrator.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAkwDYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:19:45.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\Form1.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\Form1.cs",
+              "ToolTip": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\Form1.cs",
+              "RelativeToolTip": "MedicalManagementLogin\\Form1.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:09:59.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Pharmacist.cs [Design]",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\Pharmacist.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\Pharmacist.cs",
+              "ToolTip": "C:\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\Pharmacist.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\Pharmacist.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:05:26.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Pharmacist.cs",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\Pharmacist.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\Pharmacist.cs",
+              "ToolTip": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\Pharmacist.cs",
+              "RelativeToolTip": "MedicalManagementLogin\\Pharmacist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:36:07.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Adminstrator.cs [Design]",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\Adminstrator.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\Adminstrator.cs",
+              "ToolTip": "C:\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\Adminstrator.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\Adminstrator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:05:40.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Shriram MedicalProject\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\Form1.cs",
+              "RelativeDocumentMoniker": "MedicalManagementLogin\\Form1.cs",
+              "ToolTip": "C:\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Sarthak Project\\Medical Store Management System Project\\MedicalManagementLogin\\MedicalManagementLogin\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:39:10.479Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
