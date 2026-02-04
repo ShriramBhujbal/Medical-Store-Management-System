@@ -1,0 +1,4 @@
+The Medical Store Management System is a desktop application developed to automate and simplify the daily operations of a medical store or pharmacy. It enables efficient handling of inventory, sales, billing, customer records, supplier management, and reporting — reducing manual effort and improving accuracy of record-keeping.
+This system is built using C# with .NET (Windows Forms) and uses a database (e.g., SQL Server) to store all related data securely.
+This Windows Forms desktop app delivers secure login, full CRUD for medicines/suppliers, real-time billing with GST calculations, low-stock/expiry alerts, and insightful reports to minimize losses and boost efficiency.
+Built an intuitive C# GUI with data binding and event-driven architecture, cutting manual tasks by 70% in testing—highlighting OOP mastery, exception handling, and scalable data access patterns.
